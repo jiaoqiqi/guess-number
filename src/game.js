@@ -1,3 +1,3 @@
-/**
- * Created by jiaoqiqi on 16-7-26.
- */
+const Play = require('../src/play');
+
+Play.paly();
